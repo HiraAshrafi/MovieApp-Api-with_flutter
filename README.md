@@ -1,4 +1,8 @@
 # movieapp
+![Screenshot (21)](https://user-images.githubusercontent.com/86703662/157625723-4de9f978-f401-472b-9361-a989da5c1c59.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/86703662/157625780-c63ca7d3-d082-4f6a-8c43-57cbfc328d13.png)
+
+
 
 A new Flutter project.
 
